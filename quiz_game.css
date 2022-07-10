@@ -1,3 +1,4 @@
+
 body
 {
 	background: lightblue;
@@ -11,6 +12,11 @@ body
 	font-size:80px;
 }
 
+#heading1 
+{
+	font-size:70px;
+}
+
 	.login_div1 , .login_div2
 	{
 		background: white;
@@ -22,7 +28,7 @@ body
 
 	}
 
-#button1 {
+.button1 {
 	font-family: 'Fredoka One', cursive;
 	background-color:yellow;
 	font-size: 25px;
@@ -52,5 +58,10 @@ border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
+}
+
+h2 
+{
+	font-family: 'Fredoka One', cursive;
 }
 
